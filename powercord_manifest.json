@@ -1,0 +1,9 @@
+{
+    "name": "Simplecord",
+    "description": "A simple theme for Discord.",
+    "version": "0.0.1",
+    "author": "ZEYA#1111",
+    "theme": "src/import.scss",
+    "consent": "false",
+    "license": "MIT"
+}
